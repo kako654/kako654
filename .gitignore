@@ -1,2 +1,3 @@
 .vercel
 .env*
+winsock_init.h
